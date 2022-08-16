@@ -1,0 +1,52 @@
+h2 {
+
+ 	color: red;
+ 	text-align: center;
+    font-size: 35px;
+    border: 5px solid #0108;
+    padding: 15px;
+    background: aliceblue;
+    font-size: 35px;
+ 
+ }
+h3{
+    color: #87CEEB;
+    border: 5px solid #0108;
+    font-size: 35px;
+    text-align: center;
+
+}
+h4 {
+    color: #87CEEB;
+     font-size: 35px;
+     text-align: center;
+     border: 5px solid #0108;
+}
+body {
+    background-color: #ff9933;
+}
+h1{
+	 color: #87CEEB;
+     text-align: center;
+     border: 5px solid #0108;
+     padding: 15px;
+     margin: 25px;
+     margin-right: 45%;
+     font-size: 50px;
+}
+.principal {
+    background: #ff9955;
+    padding: 30px;
+    font-size: 25px;
+}
+.horario{
+    background: #ff9980;
+    font-size: 20px;
+  
+  }
+#banner {
+        
+             width: 50%;
+      border:10px solid #00008B;
+      padding: 20px;
+      } 
